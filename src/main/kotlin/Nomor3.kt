@@ -11,8 +11,7 @@ fun main() {
         for (j in 1..i){
             print(i)
         }
-        println(i)
-
+        println()
     }
 
     //angka
